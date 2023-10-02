@@ -1,0 +1,49 @@
+<definition hotspot_y="24" height="50" version="0.90" width="40" hotspot_x="25" type="element" link_type="simple">
+    <uuid uuid="{fb702046-7d55-4e17-938a-3b04f11d674a}"/>
+    <names>
+        <name lang="en">Transformator AWT800</name>
+        <name lang="pl">Transformator AWT800</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">AWT800</elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" y="8" text="80VA" color="#000000" x="-14" rotation="630"/>
+        <arc height="5" start="-180" antialias="true" y="2" angle="-180" x="-10" width="5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <arc height="5" start="0" antialias="true" y="-7.5" angle="-180" x="5" width="5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <arc height="5" start="0" antialias="true" y="-7.5" angle="-180" x="0" width="5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <arc height="5" start="0" antialias="true" y="-7.5" angle="-180" x="-5" width="5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <arc height="5" start="0" antialias="true" y="-7.5" angle="-180" x="-10" width="5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <arc height="5" start="-180" antialias="true" y="2" angle="-180" x="5" width="5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <arc height="5" start="-180" antialias="true" y="2" angle="-180" x="0" width="5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <arc height="5" start="-180" antialias="true" y="2" angle="-180" x="-5" width="5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" y1="0" y2="0" length2="1.5" length1="1.5" x2="-10" antialias="false" x1="10" end1="none" style="line-style:dashed;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" y1="-5" y2="-20" length2="1.5" length1="1.5" x2="-10" antialias="false" x1="-10" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" y1="-5" y2="-20" length2="1.5" length1="1.5" x2="10" antialias="false" x1="10" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" y1="5" y2="20" length2="1.5" length1="1.5" x2="-10" antialias="false" x1="-10" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" y1="5" y2="20" length2="1.5" length1="1.5" x2="10" antialias="false" x1="10" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" Halignment="AlignLeft" text_width="-1" y="-11.5" uuid="{e300b25a-b4fd-4017-bdb1-1fe39c77176d}" text_from="ElementInfo" x="12" rotation="0" z="14" keep_visual_rotation="false" frame="false" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" y="-7" text="PRI " color="#000000" x="-5" rotation="0"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" y="17" text="SEC" color="#000000" x="-7" rotation="0"/>
+        <terminal y="-20" uuid="{d29fe1ba-503c-4222-b006-bb765d12c379}" name="" x="-10" orientation="n" type="Generic"/>
+        <terminal y="20" uuid="{6e9e3bd0-35af-4654-8759-a49435396e8b}" name="" x="10" orientation="s" type="Generic"/>
+        <terminal y="0" uuid="{37bfc93c-9bd5-4cd0-9a71-24af63d0c48a}" name="" x="-10" orientation="w" type="Generic"/>
+        <terminal y="-20" uuid="{a5200a52-8fbf-4649-aace-5ee92ee3abf0}" name="" x="10" orientation="n" type="Generic"/>
+        <terminal y="20" uuid="{0fd88a50-2973-42f4-8f4f-89a5962b3815}" name="" x="-10" orientation="s" type="Generic"/>
+    </description>
+</definition>

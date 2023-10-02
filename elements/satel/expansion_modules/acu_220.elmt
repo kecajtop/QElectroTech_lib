@@ -1,0 +1,24 @@
+<definition type="element" version="0.90" hotspot_y="116" height="130" hotspot_x="5" width="130" link_type="simple">
+    <uuid uuid="{c510b8a9-6cb8-4cd7-ad78-19284ed58b51}"/>
+    <names>
+        <name lang="en">ACU-220</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text color="#000000" y="-3" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="+12V" x="14" rotation="270"/>
+        <text color="#000000" y="-5" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="CKE" x="94" rotation="270"/>
+        <text color="#000000" y="-5" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="DTE" x="115" rotation="270"/>
+        <text color="#000000" y="-5" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="DTM" x="75" rotation="270"/>
+        <rect ry="0" y="-110" height="110" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="0" rx="0" width="120"/>
+        <text color="#000000" y="-5" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="CKM" x="55" rotation="270"/>
+        <text color="#000000" y="-5" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="COM" x="35" rotation="270"/>
+        <text color="#000000" y="-80" font="Sans Serif,13,-1,5,50,0,0,0,0,0" text="ACU-220" x="30" rotation="0"/>
+        <terminal type="Generic" name="DTM" orientation="s" y="4" x="70" uuid="{19b1f938-84be-4a0d-8e45-8536c238a12f}"/>
+        <terminal type="Generic" name="COM" orientation="s" y="5" x="30" uuid="{e33cc0a5-f319-4394-a3be-f72ecc9f4aed}"/>
+        <terminal type="Generic" name="CKM" orientation="s" y="4" x="50" uuid="{599a1edc-06ce-43a3-89a7-0b56a8ac44eb}"/>
+        <terminal type="Generic" name="+12V" orientation="s" y="4" x="10" uuid="{f4f987dd-a1be-4d06-8b19-c5426837c44b}"/>
+        <terminal type="Generic" name="DTE" orientation="s" y="4" x="110" uuid="{886c0eab-81cb-4efb-9b4a-47195dca3db8}"/>
+        <terminal type="Generic" name="CKE" orientation="s" y="4" x="90" uuid="{102eef53-258b-4b29-8da8-f8ff3518dea0}"/>
+    </description>
+</definition>

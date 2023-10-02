@@ -1,0 +1,59 @@
+<definition version="0.90" width="130" height="140" link_type="simple" type="element" hotspot_x="15" hotspot_y="131">
+    <uuid uuid="{b1257269-d0c9-490b-8ad8-a64059b46cfa}"/>
+    <names>
+        <name lang="en">INT-KLFR-SSW</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" y="-11" antialias="true" diameter="6" x="17"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" y="-11" antialias="true" diameter="6" x="57"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" y="-11" antialias="true" diameter="6" x="37"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" y="-11" antialias="true" diameter="6" x="77"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" y="-11" antialias="true" diameter="6" x="97"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" y="-11" antialias="true" diameter="6" x="-3"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="KPD" y="-15" rotation="270" x="64" color="#000000"/>
+        <line length1="1.5" end2="none" x1="18" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="21" antialias="false" length2="1.5" y2="-6" end1="none" y1="-9"/>
+        <line length1="1.5" end2="none" x1="-2" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="1" antialias="false" length2="1.5" y2="-6" end1="none" y1="-9"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="Z1" y="-16" rotation="270" x="85" color="#000000"/>
+        <line length1="1.5" end2="none" x1="78" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="81" antialias="false" length2="1.5" y2="-6" end1="none" y1="-9"/>
+        <line length1="1.5" end2="none" x1="98" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="101" antialias="false" length2="1.5" y2="-6" end1="none" y1="-9"/>
+        <line length1="1.5" end2="none" x1="58" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="61" antialias="false" length2="1.5" y2="-6" end1="none" y1="-9"/>
+        <line length1="1.5" end2="none" x1="38" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="41" antialias="false" length2="1.5" y2="-6" end1="none" y1="-9"/>
+        <line length1="1.5" end2="none" x1="-1" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="2" antialias="false" length2="1.5" y2="-7" end1="none" y1="-10"/>
+        <line length1="1.5" end2="none" x1="79" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="82" antialias="false" length2="1.5" y2="-7" end1="none" y1="-10"/>
+        <line length1="1.5" end2="none" x1="19" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="22" antialias="false" length2="1.5" y2="-7" end1="none" y1="-10"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="Z2" y="-16" rotation="270" x="105" color="#000000"/>
+        <line length1="1.5" end2="none" x1="39" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="42" antialias="false" length2="1.5" y2="-7" end1="none" y1="-10"/>
+        <line length1="1.5" end2="none" x1="59" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="62" antialias="false" length2="1.5" y2="-7" end1="none" y1="-10"/>
+        <line length1="1.5" end2="none" x1="99" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="102" antialias="false" length2="1.5" y2="-7" end1="none" y1="-10"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="DTM" y="-15" rotation="270" x="45" color="#000000"/>
+        <rect rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="120" y="-125" height="125" antialias="false" ry="0" x="-10"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="CKM" y="-15" rotation="270" x="25" color="#000000"/>
+        <rect rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="90" y="-115" height="20" antialias="false" ry="0" x="5"/>
+        <rect rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" y="-85" height="10" antialias="false" ry="0" x="5"/>
+        <rect rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" y="-85" height="10" antialias="false" ry="0" x="25"/>
+        <rect rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" y="-85" height="10" antialias="false" ry="0" x="45"/>
+        <rect rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" y="-85" height="10" antialias="false" ry="0" x="65"/>
+        <rect rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" y="-65" height="10" antialias="false" ry="0" x="5"/>
+        <rect rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" y="-65" height="10" antialias="false" ry="0" x="25"/>
+        <rect rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" y="-65" height="10" antialias="false" ry="0" x="45"/>
+        <rect rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" y="-65" height="10" antialias="false" ry="0" x="65"/>
+        <rect rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" y="-85" height="10" antialias="false" ry="0" x="85"/>
+        <rect rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" y="-65" height="10" antialias="false" ry="0" x="85"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="COM" y="-15" rotation="270" x="4" color="#000000"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="INT-KLFR-SSW" y="-100" rotation="0" x="10" color="#000000"/>
+        <line length1="1.5" end2="none" x1="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="110" antialias="false" length2="1.5" y2="-45" end1="none" y1="-45"/>
+        <line length1="1.5" end2="none" x1="10" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="10" antialias="false" length2="1.5" y2="0" end1="none" y1="-45"/>
+        <line length1="1.5" end2="none" x1="30" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="30" antialias="false" length2="1.5" y2="0" end1="none" y1="-45"/>
+        <line length1="1.5" end2="none" x1="50" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="50" antialias="false" length2="1.5" y2="0" end1="none" y1="-45"/>
+        <line length1="1.5" end2="none" x1="70" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="70" antialias="false" length2="1.5" y2="0" end1="none" y1="-45"/>
+        <line length1="1.5" end2="none" x1="90" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="90" antialias="false" length2="1.5" y2="0" end1="none" y1="-45"/>
+        <terminal uuid="{839b2979-d4e2-4b07-917d-4b001d91d7fd}" orientation="s" y="0" name="KPD" type="Generic" x="60"/>
+        <terminal uuid="{b6d6169b-0ff5-46dc-9135-375cde62f18b}" orientation="s" y="0" name="COM" type="Generic" x="0"/>
+        <terminal uuid="{838e435c-dc48-43cc-b2e7-55e34ec2bbc0}" orientation="s" y="0" name="CKM" type="Generic" x="20"/>
+        <terminal uuid="{52d2424c-922b-402d-8515-88f7ea5ee4a8}" orientation="s" y="0" name="Z1" type="Generic" x="80"/>
+        <terminal uuid="{db552d88-6ad1-430f-b08b-4e0a94f8091e}" orientation="s" y="0" name="Z2" type="Generic" x="100"/>
+        <terminal uuid="{36226a04-90e0-4ed3-bea8-5c051bd13a31}" orientation="s" y="0" name="DTM" type="Generic" x="40"/>
+    </description>
+</definition>

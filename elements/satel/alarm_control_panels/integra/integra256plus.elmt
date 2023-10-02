@@ -1,0 +1,128 @@
+<definition hotspot_y="297" height="310" version="0.90" width="960" hotspot_x="7" type="element" link_type="simple">
+    <uuid uuid="{f4ef2864-b2cd-43df-95dc-30fb10ef9470}"/>
+    <names>
+        <name lang="en">INTEGRA 256 PLUS</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="Z7" color="#000000" x="645" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-206" text="OUT8" color="#000000" x="898" rotation="0"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-66" text="OUT15" color="#000000" x="898" rotation="0"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-226" text="OUT7" color="#000000" x="898" rotation="0"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="Z5" color="#000000" x="585" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-186" text="OUT9" color="#000000" x="898" rotation="0"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="Z16" color="#000000" x="925" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="AC" color="#000000" x="45" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="Z13" color="#000000" x="825" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="Z9" color="#000000" x="705" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="Z15" color="#000000" x="885" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="Z2" color="#000000" x="505" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-266" text="OUT5" color="#000000" x="898" rotation="0"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="Z3" color="#000000" x="525" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="Z1" color="#000000" x="465" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-46" text="OUT16" color="#000000" x="898" rotation="720"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-246" text="OUT6" color="#000000" x="898" rotation="0"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-146" text="OUT11" color="#000000" x="898" rotation="0"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="COM" color="#000000" x="544" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-106" text="OUT13" color="#000000" x="898" rotation="0"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="Z11" color="#000000" x="765" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="COM" color="#000000" x="844" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-166" text="OUT10" color="#000000" x="898" rotation="0"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="COM" color="#000000" x="724" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="COM" color="#000000" x="604" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="COM" color="#000000" x="904" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="COM" color="#000000" x="784" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="COM" color="#000000" x="664" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-86" text="OUT14" color="#000000" x="898" rotation="0"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-126" text="OUT12" color="#000000" x="898" rotation="0"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="+EX2" color="#000000" x="405" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="Z10" color="#000000" x="745" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="Z6" color="#000000" x="625" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="Z12" color="#000000" x="805" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="Z14" color="#000000" x="865" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="OUT2" color="#000000" x="125" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="Z4" color="#000000" x="565" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="Z8" color="#000000" x="685" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="COM" color="#000000" x="184" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="COM" color="#000000" x="145" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="+KPD" color="#000000" x="245" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-6" text="COM" color="#000000" x="64" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="OUT1" color="#000000" x="85" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="COM" color="#000000" x="105" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="AC" color="#000000" x="25" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="CK2" color="#000000" x="445" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="OUT3" color="#000000" x="164" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="CKM" color="#000000" x="285" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="OUT4" color="#000000" x="204" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="DTM" color="#000000" x="265" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="DT2" color="#000000" x="424" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="COM" color="#000000" x="305" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="COM" color="#000000" x="224" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="COM" color="#000000" x="484" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="+EX1" color="#000000" x="325" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="CK1" color="#000000" x="364" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="DT1" color="#000000" x="344" rotation="270"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" text="COM" color="#000000" x="384" rotation="270"/>
+        <rect height="290" ry="0" antialias="false" y="-290" x="0" width="940" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text font="Sans Serif,23,-1,5,50,0,0,0,0,0" y="-160" text="INTEGRA 256 PLUS" color="#000000" x="333" rotation="0"/>
+        <terminal y="4" uuid="{d2ec3c47-4147-4dca-a146-5b5521750774}" name="COM" x="540" orientation="s" type="Generic"/>
+        <terminal y="-130" uuid="{26dbe234-050c-40f3-8da2-af08c7f526af}" name="OUT12" x="944" orientation="e" type="Generic"/>
+        <terminal y="-150" uuid="{1d4b4c7d-4350-4792-b1ba-2fa639a96eb3}" name="OUT111" x="944" orientation="e" type="Generic"/>
+        <terminal y="-50" uuid="{9b42f688-e077-452d-ac57-ce974418db37}" name="OUT16" x="944" orientation="e" type="Generic"/>
+        <terminal y="-250" uuid="{2e75fabe-8bdc-4e8e-9dfe-864230b70365}" name="OUT6" x="944" orientation="e" type="Generic"/>
+        <terminal y="4" uuid="{79cf966a-bb31-4fc8-b017-863f774b07d6}" name="Z1" x="460" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{7392a3a6-dcc2-4cc5-a3d3-3dfbbfcaf464}" name="Z3" x="520" orientation="s" type="Generic"/>
+        <terminal y="-270" uuid="{b38280db-9045-4543-bc5b-e45fd3ebd245}" name="OUT5" x="944" orientation="e" type="Generic"/>
+        <terminal y="4" uuid="{6dee3920-3210-4881-9b3c-4096e2bacf68}" name="Z2" x="500" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{6721e526-ccca-4bec-b72a-3b7384ab61ac}" name="DT1" x="340" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{ec58439f-548e-456f-a504-2319df9e58ff}" name="COM" x="380" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{210c6a47-ff99-43c2-894f-c1e9f6dac314}" name="+EX1" x="320" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{84225b19-8c6d-47a3-b143-68cdd9ce7edb}" name="CK1" x="360" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{6de3ae3d-1a09-4698-a02e-d7107bd868b9}" name="COM" x="60" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{0a413f5c-3734-41f4-a13b-eb7694586f7e}" name="AC2" x="40" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{f08e8596-710e-4650-ae7f-ab190e919949}" name="AC1" x="20" orientation="s" type="Inner"/>
+        <terminal y="4" uuid="{f8417a93-20ec-4c97-b1d6-e4a77c3c3d9c}" name="+KPD" x="240" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{9e274fb1-11ea-481d-9565-3b50368f3995}" name="CKM" x="280" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{6a4a5b11-54fa-4f86-85d0-90bcfdab045d}" name="OUT2" x="300" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{0e710eee-26ba-4306-92c1-5272eb7fe7b2}" name="DTM" x="260" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{afe7b129-a59c-40a5-9613-4a284c7e40cc}" name="COM" x="180" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{20d5356f-ca22-4d1d-9682-7a1eac6abd70}" name="COM" x="100" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{ceeb39e5-d8fc-48d6-8b0f-fa960250760c}" name="COM" x="140" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{a211db28-955b-4d1e-b210-1336a7b67416}" name="OUT3" x="160" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{d77062f2-f3e8-4d61-a6aa-86589aa5288f}" name="+EX2" x="400" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{68180a6b-387b-4b8c-8cb7-844bec54e8d9}" name="OUT2" x="120" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{13b4f818-0938-443c-9413-4947f1f47449}" name="OUT4" x="200" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{231bb6cc-362d-4866-8462-8939db59f9ff}" name="OUT1" x="80" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{afa4d2a5-733c-49f8-83bc-621892723214}" name="COM" x="220" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{5901e104-01de-4bc7-8a15-ae95706d6439}" name="DT2" x="420" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{240064ae-2800-428d-acb9-4581c8536bc7}" name="COM" x="480" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{15300369-9ed2-4071-beb5-50f463b5978f}" name="CK2" x="440" orientation="s" type="Generic"/>
+        <terminal y="-230" uuid="{e531c0aa-e70b-4fc7-ad31-0bc98537ea09}" name="OUT7" x="944" orientation="e" type="Generic"/>
+        <terminal y="-210" uuid="{7812c678-be79-421d-83cf-b9ab90590e1d}" name="OUT8" x="944" orientation="e" type="Generic"/>
+        <terminal y="-70" uuid="{d433ebcc-2322-47d5-880d-ed6d7fd5b328}" name="OUT15" x="944" orientation="e" type="Generic"/>
+        <terminal y="4" uuid="{f3cedc83-29bf-43bf-8f09-0094fed9d4cb}" name="Z5" x="580" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{6cf92293-09c0-48a1-a703-2f54e0e57427}" name="Z4" x="560" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{40ae84d7-c825-4ba6-a39b-c0f813a651da}" name="COM" x="780" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{687ca254-b5b2-4f49-932c-8e1685de6878}" name="Z10" x="740" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{5617dd41-a32a-4608-b1e7-17a948f46e9b}" name="Z11" x="760" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{96a03f66-ee7a-4f17-b4df-d3ee06323edf}" name="COM" x="600" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{bc77d82f-e18d-4372-894a-b19e4d2ed469}" name="Z16" x="920" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{6dbd1595-9d5f-496a-a50f-fc31f13fcf64}" name="Z14" x="860" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{3dd2758a-0239-4dc7-b752-bbd73ca75d2f}" name="Z12" x="800" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{0709308b-a066-490b-bfff-e27a9ad94a23}" name="COM" x="840" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{488dca82-1990-41db-94a3-c48c53e422a8}" name="Z13" x="820" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{f3ccdc32-636d-4004-9396-a5f09db52b9d}" name="Z15" x="880" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{622ba69d-011f-45f8-bf00-007dae98d412}" name="COM" x="900" orientation="s" type="Generic"/>
+        <terminal y="-190" uuid="{05075d17-b24b-41d6-8588-f9a8776956ec}" name="OUT9" x="944" orientation="e" type="Generic"/>
+        <terminal y="4" uuid="{3a9f9411-53f0-431f-a616-709034422fb5}" name="Z7" x="640" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{fd07c5bc-14a7-4fc4-990d-e8ff362f6692}" name="Z6" x="620" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{63585632-69eb-4868-9c06-9de48e2bf5b1}" name="COM" x="660" orientation="s" type="Generic"/>
+        <terminal y="-90" uuid="{f0b5656c-c9af-416a-b732-f7295ba14fe4}" name="OUT14" x="944" orientation="e" type="Generic"/>
+        <terminal y="-110" uuid="{7457bf72-7fc0-40f3-87c5-387b0a147f75}" name="OUT13" x="944" orientation="e" type="Generic"/>
+        <terminal y="-170" uuid="{f6ae6afc-12cc-4ed4-a04d-09d016756fb9}" name="OUT10" x="944" orientation="e" type="Generic"/>
+        <terminal y="4" uuid="{e0ccafc6-5216-4275-9e64-65a6f4de6a52}" name="Z9" x="700" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{cff9cc28-0721-454f-b55c-387d88ba1362}" name="Z8" x="680" orientation="s" type="Generic"/>
+        <terminal y="4" uuid="{98dd8196-5622-4792-bb9c-f78c3208c415}" name="COM" x="720" orientation="s" type="Generic"/>
+    </description>
+</definition>

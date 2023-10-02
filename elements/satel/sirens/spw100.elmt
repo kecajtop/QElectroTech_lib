@@ -1,0 +1,20 @@
+<definition width="90" hotspot_y="97" type="element" link_type="simple" height="110" hotspot_x="5" version="0.90">
+    <uuid uuid="{5e1b6ee3-4c40-4893-8d31-e55f825d6ee8}"/>
+    <names>
+        <name lang="en">SPW100</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text rotation="270" x="15" text="SA+" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-4" color="#000000"/>
+        <text rotation="270" x="74" text="TMP" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-4" color="#000000"/>
+        <text rotation="270" x="55" text="TMP" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-4" color="#000000"/>
+        <text rotation="270" x="35" text="SA-" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-4" color="#000000"/>
+        <rect width="80" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="0" antialias="false" rx="0" y="-90" height="90"/>
+        <text rotation="0" x="20" text="SPW100" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-55" color="#000000"/>
+        <terminal orientation="s" x="70" type="Generic" y="4" name="TMP" uuid="{2cb1d947-9259-4531-ac8b-f60ed186298b}"/>
+        <terminal orientation="s" x="50" type="Generic" y="4" name="TMP" uuid="{f8a16aa3-4ff3-403c-a8f0-67f103db977b}"/>
+        <terminal orientation="s" x="30" type="Generic" y="4" name="SA-" uuid="{fc8bf06c-11a9-4e5d-989f-3b5c781d21ed}"/>
+        <terminal orientation="s" x="10" type="Generic" y="4" name="SA+" uuid="{ec1505f8-04b2-4037-9c2d-f454fc2eea0b}"/>
+    </description>
+</definition>

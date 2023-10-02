@@ -1,0 +1,27 @@
+<definition hotspot_y="10" height="20" version="0.90" width="30" hotspot_x="21" type="element" link_type="next_report">
+    <uuid uuid="{5e9fde20-16d5-4e04-94b1-058e3a56b26b}"/>
+    <names>
+        <name lang="en">Next folio</name>
+        <name lang="es">Folio siguiente</name>
+        <name lang="pl">Wyjście adresowe</name>
+        <name lang="nl">Referentie volgend</name>
+        <name lang="el">Επόμενη σελίδα</name>
+        <name lang="it">Foglio successivo</name>
+        <name lang="cs">Další list</name>
+        <name lang="fr">Folio suivant</name>
+        <name lang="ar">الصفحة التالية</name>
+        <name lang="de">Nächste Folie</name>
+        <name lang="ru">Следующая страница</name>
+    </names>
+    <informations>Author: The QElectroTech team&#xd;&#xd;
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <polygon closed="false" y1="-4" y2="4" y4="-4" x2="-9" antialias="true" x4="-9" x3="2" x1="-9" y3="0" style="line-style:normal;line-weight:normal;filling:black;color:black"/>
+        <line end2="none" y1="0" y2="0" length2="1.5" length1="1.5" x2="-12" antialias="false" x1="-9" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" Halignment="AlignLeft" text_width="-1" y="-11.5" uuid="{3f48fc5a-def8-43f9-94ad-54a8f575e854}" text_from="ElementInfo" x="6" rotation="0" z="3" keep_visual_rotation="false" frame="false" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal y="0" uuid="{36146495-053c-47e6-8a83-59990814ddf8}" name="" x="-13" orientation="w" type="Generic"/>
+    </description>
+</definition>

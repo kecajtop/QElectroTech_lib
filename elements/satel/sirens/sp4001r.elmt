@@ -1,0 +1,24 @@
+<definition width="130" hotspot_y="97" type="element" link_type="simple" height="110" hotspot_x="15" version="0.90">
+    <uuid uuid="{04dcf24d-b66d-4bb6-8b42-d607690acb52}"/>
+    <names>
+        <name lang="en">SP4001R</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text rotation="270" x="5" text="SO+" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" color="#000000"/>
+        <text rotation="270" x="45" text="SA+" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-4" color="#000000"/>
+        <text rotation="270" x="25" text="SO-" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" color="#000000"/>
+        <text rotation="270" x="104" text="TMP" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-4" color="#000000"/>
+        <text rotation="270" x="85" text="TMP" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-4" color="#000000"/>
+        <text rotation="270" x="65" text="SA-" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-4" color="#000000"/>
+        <rect width="120" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-10" antialias="false" rx="0" y="-90" height="90"/>
+        <text rotation="0" x="25" text="SP4001R" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-55" color="#000000"/>
+        <terminal orientation="s" x="100" type="Generic" y="4" name="TMP" uuid="{e62ca466-f0b0-482a-bb7b-25767306e2fe}"/>
+        <terminal orientation="s" x="60" type="Generic" y="4" name="SA-" uuid="{3ab71ea4-5e96-4b5f-801a-56101a2fe6ba}"/>
+        <terminal orientation="s" x="20" type="Generic" y="4" name="SO-" uuid="{e357d9ed-2d41-4350-b252-1b1eea76b2e6}"/>
+        <terminal orientation="s" x="80" type="Generic" y="4" name="TMP" uuid="{91ffd749-fcb8-42c4-88a0-123de8e29685}"/>
+        <terminal orientation="s" x="40" type="Generic" y="4" name="SA+" uuid="{dd70a32b-e8ec-4b34-af6c-1a2e6dacc037}"/>
+        <terminal orientation="s" x="0" type="Generic" y="4" name="SO+" uuid="{ce51291d-df56-4306-8fba-03e5fee73c44}"/>
+    </description>
+</definition>

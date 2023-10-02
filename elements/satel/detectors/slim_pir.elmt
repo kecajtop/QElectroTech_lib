@@ -1,0 +1,54 @@
+<definition width="150" hotspot_y="97" hotspot_x="5" type="element" height="110" version="0.90" link_type="simple">
+    <uuid uuid="{949f35c7-7d56-4085-9f3a-04882d0652ea}"/>
+    <names>
+        <name lang="en">SLIM-PIR</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle y="-13" x="47" diameter="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <circle y="-13" x="127" diameter="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <circle y="-13" x="7" diameter="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <circle y="-13" x="67" diameter="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <circle y="-13" x="27" diameter="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <text y="-16" rotation="270" x="35" text="NC" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <line x1="128" x2="131" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-11" length2="1.5" y2="-8" antialias="false" end1="none" end2="none"/>
+        <line x1="48" x2="51" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-11" length2="1.5" y2="-8" antialias="false" end1="none" end2="none"/>
+        <text y="-16" rotation="270" x="15" text="NC" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <line x1="8" x2="11" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-11" length2="1.5" y2="-8" antialias="false" end1="none" end2="none"/>
+        <line x1="28" x2="31" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-11" length2="1.5" y2="-8" antialias="false" end1="none" end2="none"/>
+        <circle y="-13" x="107" diameter="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="29" x2="32" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-12" length2="1.5" y2="-9" antialias="false" end1="none" end2="none"/>
+        <line x1="9" x2="12" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-12" length2="1.5" y2="-9" antialias="false" end1="none" end2="none"/>
+        <line x1="49" x2="52" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-12" length2="1.5" y2="-9" antialias="false" end1="none" end2="none"/>
+        <line x1="129" x2="132" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-12" length2="1.5" y2="-9" antialias="false" end1="none" end2="none"/>
+        <text y="-16" rotation="270" x="115" text="COM" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <circle y="-13" x="87" diameter="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <text y="-18" rotation="270" x="134" text="+12V" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <line x1="108" x2="111" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-11" length2="1.5" y2="-8" antialias="false" end1="none" end2="none"/>
+        <text y="-16" rotation="270" x="75" text="TMP" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <line x1="88" x2="91" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-11" length2="1.5" y2="-8" antialias="false" end1="none" end2="none"/>
+        <line x1="68" x2="71" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-11" length2="1.5" y2="-8" antialias="false" end1="none" end2="none"/>
+        <text y="-15" rotation="270" x="95" text="LED" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <line x1="109" x2="112" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-12" length2="1.5" y2="-9" antialias="false" end1="none" end2="none"/>
+        <text y="-16" rotation="270" x="56" text="TMP" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <line x1="89" x2="92" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-12" length2="1.5" y2="-9" antialias="false" end1="none" end2="none"/>
+        <text y="-70" rotation="0" x="34" text="SLIM-PIR" font="Sans Serif,12,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <rect y="-90" width="140" x="0" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" height="90" antialias="false" ry="0"/>
+        <line x1="69" x2="72" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-12" length2="1.5" y2="-9" antialias="false" end1="none" end2="none"/>
+        <line x1="140" x2="0" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-50" length2="1.5" y2="-50" antialias="false" end1="none" end2="none"/>
+        <line x1="20" x2="20" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-50" length2="1.5" y2="0" antialias="false" end1="none" end2="none"/>
+        <line x1="40" x2="40" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-50" length2="1.5" y2="0" antialias="false" end1="none" end2="none"/>
+        <line x1="60" x2="60" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-50" length2="1.5" y2="0" antialias="false" end1="none" end2="none"/>
+        <line x1="80" x2="80" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-50" length2="1.5" y2="0" antialias="false" end1="none" end2="none"/>
+        <line x1="100" x2="100" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-50" length2="1.5" y2="0" antialias="false" end1="none" end2="none"/>
+        <line x1="120" x2="120" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-50" length2="1.5" y2="0" antialias="false" end1="none" end2="none"/>
+        <terminal y="4" orientation="s" x="110" uuid="{80391b53-d291-460d-9b1b-36a403df2f5d}" type="Generic" name="COM"/>
+        <terminal y="4" orientation="s" x="90" uuid="{99247df2-7818-4a0c-ac62-cc196aeab887}" type="Generic" name="LED"/>
+        <terminal y="4" orientation="s" x="130" uuid="{2858947c-1c93-4944-8e5c-8b36b81be811}" type="Generic" name="+12V"/>
+        <terminal y="4" orientation="s" x="30" uuid="{56d04fff-a49b-4fde-95fb-68d9b061675e}" type="Generic" name="NC"/>
+        <terminal y="4" orientation="s" x="10" uuid="{ed945ccc-defd-4463-aa74-636dcdb60690}" type="Generic" name="NC"/>
+        <terminal y="4" orientation="s" x="70" uuid="{fe1678b9-8208-4618-a893-02fcee0d1e69}" type="Generic" name="TMP"/>
+        <terminal y="4" orientation="s" x="50" uuid="{31761447-c60c-43bf-bfd1-6a879c565bb9}" type="Generic" name="TMP"/>
+    </description>
+</definition>

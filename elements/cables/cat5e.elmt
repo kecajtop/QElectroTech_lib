@@ -1,0 +1,74 @@
+<definition width="140" hotspot_y="29" link_type="simple" type="element" version="0.90" height="40" hotspot_x="74">
+    <uuid uuid="{74c5d78e-04c5-4da3-b19e-fcaed7d6d0a8}"/>
+    <names>
+        <name lang="cs">Kabel Cat 5e</name>
+        <name lang="fr">Câble Cat 5e</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team&#xd;&#xd;
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <line style="line-style:dotted;line-weight:normal;filling:none;color:blue" y2="0" y1="-4" x1="-70" end1="none" antialias="true" length1="1.5" length2="1.5" end2="none" x2="-66"/>
+        <line style="line-style:dotted;line-weight:normal;filling:none;color:brun" y2="0" y1="-4" x1="-10" end1="none" antialias="true" length1="1.5" length2="1.5" end2="none" x2="-6"/>
+        <line style="line-style:dotted;line-weight:normal;filling:none;color:orange" y2="0" y1="-4" x1="-30" end1="none" antialias="true" length1="1.5" length2="1.5" end2="none" x2="-26"/>
+        <line style="line-style:dotted;line-weight:normal;filling:none;color:green" y2="0" y1="-4" x1="-50" end1="none" antialias="true" length1="1.5" length2="1.5" end2="none" x2="-46"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:green" y2="0" y1="-4" x1="-40" end1="none" antialias="true" length1="1.5" length2="1.5" end2="none" x2="-36"/>
+        <line style="line-style:dotted;line-weight:normal;filling:none;color:brun" y2="-4.77778" y1="-9.22222" x1="-10" end1="none" antialias="false" length1="1.5" length2="1.5" end2="none" x2="-10"/>
+        <line style="line-style:dotted;line-weight:normal;filling:none;color:orange" y2="-4.77778" y1="-9.22222" x1="-30" end1="none" antialias="false" length1="1.5" length2="1.5" end2="none" x2="-30"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:brun" y2="-0.05" y1="-4.05" x1="-0.05" end1="none" antialias="true" length1="1.5" length2="1.5" end2="none" x2="3.95"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:blue" y2="0" y1="-4" x1="-60" end1="none" antialias="true" length1="1.5" length2="1.5" end2="none" x2="-56"/>
+        <line style="line-style:dotted;line-weight:normal;filling:none;color:blue" y2="-4.77778" y1="-9.22222" x1="-70" end1="none" antialias="false" length1="1.5" length2="1.5" end2="none" x2="-70"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:orange" y2="0" y1="-4" x1="-20" end1="none" antialias="true" length1="1.5" length2="1.5" end2="none" x2="-16"/>
+        <line style="line-style:dotted;line-weight:normal;filling:none;color:green" y2="-4.77778" y1="-9.22222" x1="-50" end1="none" antialias="false" length1="1.5" length2="1.5" end2="none" x2="-50"/>
+        <dynamic_text keep_visual_rotation="false" rotation="0" uuid="{401e17ce-c742-4c95-a964-1dbcbc4eef57}" Halignment="AlignLeft" Valignment="AlignTop" text_width="-1" frame="false" y="1" z="13" text_from="ElementInfo" x="20" font="Sans Serif,3,-1,5,25,0,0,0,0,0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:blue" y2="-4.77778" y1="-9.22222" x1="-60" end1="none" antialias="false" length1="1.5" length2="1.5" end2="none" x2="-60"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="0" y1="0" x1="-65.7" end1="none" antialias="false" length1="1.5" length2="1.5" end2="none" x2="20"/>
+        <dynamic_text keep_visual_rotation="false" rotation="0" uuid="{e3cc3e47-e041-40d0-8a5a-219173e0d461}" Halignment="AlignLeft" Valignment="AlignTop" text_width="-1" frame="false" y="-16.5" z="16" text_from="UserText" x="-60" font="Sans Serif,3,-1,5,25,0,0,0,0,0">
+            <text>B</text>
+        </dynamic_text>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:green" y2="-4.77778" y1="-9.22222" x1="-40" end1="none" antialias="false" length1="1.5" length2="1.5" end2="none" x2="-40"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="4" y1="-4" x1="20" end1="none" antialias="false" length1="1.5" length2="1.5" end2="none" x2="20"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="4" y1="4" x1="20" end1="none" antialias="false" length1="1.5" length2="1.5" end2="none" x2="62"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-4" y1="-4" x1="20" end1="none" antialias="false" length1="1.5" length2="1.5" end2="none" x2="58"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:orange" y2="-4" y1="-9" x1="-20" end1="none" antialias="false" length1="1.5" length2="1.5" end2="none" x2="-20"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:brun" y2="-4" y1="-10" x1="0" end1="none" antialias="false" length1="1.5" length2="1.5" end2="none" x2="0"/>
+        <dynamic_text keep_visual_rotation="false" rotation="0" uuid="{ff7e3429-c2d9-4337-95ce-da28e694c104}" Halignment="AlignLeft" Valignment="AlignTop" text_width="-1" frame="false" y="-7" z="23" text_from="ElementInfo" x="20" font="Sans Serif,3,-1,5,25,0,0,0,0,0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line style="line-style:dashed;line-weight:thin;filling:none;color:black" y2="4" y1="-4" x1="58" end1="none" antialias="false" length1="1.5" length2="1.5" end2="none" x2="62"/>
+        <dynamic_text keep_visual_rotation="false" rotation="0" uuid="{a9fb211c-d180-4dbf-8cfc-26704313d14c}" Halignment="AlignLeft" Valignment="AlignTop" text_width="-1" frame="false" y="-16.5" z="25" text_from="UserText" x="-20" font="Sans Serif,3,-1,5,25,0,0,0,0,0">
+            <text>O</text>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" rotation="0" uuid="{436b8047-5c47-42db-bda7-44ee40fa5437}" Halignment="AlignLeft" Valignment="AlignTop" text_width="-1" frame="false" y="-16.5" z="26" text_from="UserText" x="-40" font="Sans Serif,3,-1,5,25,0,0,0,0,0">
+            <text>V</text>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" rotation="0" uuid="{81daaba8-3541-4e9b-a676-51939aee0658}" Halignment="AlignLeft" Valignment="AlignTop" text_width="-1" frame="false" y="-16.5" z="27" text_from="UserText" x="0" font="Sans Serif,3,-1,5,25,0,0,0,0,0">
+            <text>M</text>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" rotation="0" uuid="{5cb9fafb-b688-496f-ae21-9a15747b423b}" Halignment="AlignLeft" Valignment="AlignTop" text_width="-1" frame="false" y="-16.5" z="28" text_from="ElementInfo" x="20" font="Sans Serif,3,-1,5,25,0,0,0,0,0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line style="line-style:dotted;line-weight:normal;filling:none;color:blue" y2="-15" y1="-10" x1="-70" end1="none" antialias="false" length1="1.5" length2="1.5" end2="none" x2="-60"/>
+        <line style="line-style:normal;line-weight:normal;filling:blue;color:blue" y2="-15" y1="-10" x1="-60" end1="none" antialias="false" length1="1.5" length2="1.5" end2="none" x2="-70"/>
+        <line style="line-style:dotted;line-weight:normal;filling:none;color:green" y2="-15" y1="-10" x1="-50" end1="none" antialias="false" length1="1.5" length2="1.5" end2="none" x2="-40"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:green" y2="-15" y1="-10" x1="-40" end1="none" antialias="false" length1="1.5" length2="1.5" end2="none" x2="-50"/>
+        <line style="line-style:dotted;line-weight:normal;filling:none;color:orange" y2="-15" y1="-10" x1="-30" end1="none" antialias="false" length1="1.5" length2="1.5" end2="none" x2="-20"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:orange" y2="-15" y1="-10" x1="-20" end1="none" antialias="false" length1="1.5" length2="1.5" end2="none" x2="-30"/>
+        <line style="line-style:dotted;line-weight:normal;filling:none;color:brun" y2="-15" y1="-10" x1="-10" end1="none" antialias="false" length1="1.5" length2="1.5" end2="none" x2="0"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:brun" y2="-15" y1="-10" x1="0" end1="none" antialias="false" length1="1.5" length2="1.5" end2="none" x2="-10"/>
+        <terminal uuid="{d14b35ef-d651-4531-961e-9fe2b5cf1c5d}" name="" type="Generic" orientation="e" y="0" x="60"/>
+        <terminal uuid="{d51c5912-a19c-4897-b666-2ce8e7bad501}" name="" type="Generic" orientation="n" y="-20" x="-30"/>
+        <terminal uuid="{bafb6aac-25e8-4ed9-994d-ddcd12861afb}" name="" type="Generic" orientation="n" y="-20" x="-70"/>
+        <terminal uuid="{7ddaa26a-eba7-4b22-9628-36bfa30af240}" name="" type="Generic" orientation="n" y="-20" x="-50"/>
+        <terminal uuid="{807cb328-83f6-4f26-b5ef-a40081a9bb7f}" name="" type="Generic" orientation="n" y="-20" x="-10"/>
+        <terminal uuid="{cf50122c-b0ee-4eb6-a1ee-2cf5d36e9c26}" name="" type="Generic" orientation="n" y="-20" x="-20"/>
+        <terminal uuid="{c25e5b0e-5e38-4373-acfc-8b92a895b97e}" name="" type="Generic" orientation="n" y="-20" x="-40"/>
+        <terminal uuid="{98bff5f7-73d1-4c5a-8540-8e0ccfd86855}" name="" type="Generic" orientation="n" y="-20" x="0"/>
+        <terminal uuid="{e3fc06c1-9257-4e3a-8aee-c8a88b8efa0c}" name="" type="Generic" orientation="n" y="-20" x="-60"/>
+    </description>
+</definition>

@@ -1,0 +1,11 @@
+<definition link_type="simple" type="element" version="0.90" width="10" height="20" hotspot_y="7" hotspot_x="4">
+    <uuid uuid="{dfc8bff5-bff2-471e-84dc-4b97178ca788}"/>
+    <names>
+        <name lang="en">ASW-210</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <terminal y="0" name="" type="Generic" x="0" orientation="n" uuid="{d78fd41b-5950-4407-812f-524a7b4e1097}"/>
+    </description>
+</definition>
